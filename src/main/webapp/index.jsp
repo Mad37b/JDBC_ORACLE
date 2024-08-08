@@ -13,13 +13,13 @@
 	<h1>Base de datos JDBC</h1> 
 
 <div class = "contenedor">
-	<label class="paginado">pagina 1/2</label>
+	<label class="paginado">página 1/2</label>
 	
 	<form style=""text-align:center;" href="index.jsp" name=consulta>
 		<label> Consulta </label> <input type="text" name="textQuery"><input
 			type="submit">
 
-	<table border="1">
+	<table>
 		<tr>
 
 			<th>ID</th>

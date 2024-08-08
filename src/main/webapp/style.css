@@ -8,9 +8,9 @@ table {
 	border: 2px solid black;
 	text-align: center;padding:20px; margin :10px}
 	
-	tr{text-align:center}
+	tr{boder:1;text-align:center}
 	th{padding:5px}
 	
-	h1 { text-align:center; padding:10px;}
-	.contenedor { display:flex; justify-content:center; align-content:center;}
+	h1 { border:1;text-align:center; padding:10px;}
+	.contenedor {border:1; display:flex; justify-content:center; align-content:center;}
 	.paginado {text-align:center; padding:0px 10px;position:left }
